@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/kavi/Desktop/FIT_Z24/PA1/Progtest/stocks Select CMakeLists.txt
